@@ -42,10 +42,8 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 <hr>
 
 ###  5. Blockchain: Lost River
-  
-<hr>
 
-### 🌐 Esquema dos Diretórios
+## 🌐 Esquema dos Diretórios
 
 ```
 📁LP-crypto-submersion
