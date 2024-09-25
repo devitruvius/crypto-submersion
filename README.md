@@ -7,7 +7,7 @@ Servir como um portfólio centralizado e organizado para documentar atividades, 
 ## Módulos
 Cada repositório contém um README.md apresentando uma visão geral dos cursos, incluindo objetivos, ementário e materiais complementares podendo conter links externos e anotações.
  
-### [1. Basics for Teamwork and Agile Development]()
+### [1. Basics for Teamwork and Agile Development](https://github.com/devitruvius/CS-teamwork-agile)
 
 <hr>
 
