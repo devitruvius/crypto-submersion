@@ -71,7 +71,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 │  │
 │  └─📁...
 │
-... (outros módulos)
+└─ ... (demais módulos)
 ```
 
 ## Licença
