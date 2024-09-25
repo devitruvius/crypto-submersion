@@ -7,71 +7,71 @@ Servir como um portfólio centralizado e organizado para documentar atividades, 
 ## Módulos
 Cada repositório contém um README.md apresentando uma visão geral dos cursos, incluindo objetivos, ementário e materiais complementares podendo conter links externos e anotações.
  
-### 1. Basics for Teamwork and Agile Development
-* [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática]()
+### [1. Basics for Teamwork and Agile Development]()
+* Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
   
-* [Aprenda Git e GitHub em 3 dias + Projetos reais]()
+* Aprenda Git e GitHub em 3 dias + Projetos reais
   
-* [Conventional Commits]()
+* Conventional Commits
   
-* [Tudo que você precisa saber sobre Markdown]()
+* Tudo que você precisa saber sobre Markdown
   
-* [Fundamentos da Segurança da Informação]()
+* Fundamentos da Segurança da Informação
 
 <hr>
 
-### 2. Blockchain: Safe Shallows
-* [Blockchain explicada em 5 níveis de dificuldade]()
+### [2. Blockchain: Safe Shallows]()
+* Blockchain explicada em 5 níveis de dificuldade
   
-* [Bitcoin e Blockchain - Conceitos Fundamentais]()
+* Bitcoin e Blockchain - Conceitos Fundamentais
   
-* [Blockchain Demo]()
+* Blockchain Demo
   
-* [Blockchain na Pŕatica]()
+* Blockchain na Pŕatica
   
-* [Quando utilizar Blockchain?]()
-  
-<hr>
-
-### 3. Blockchain: Grassy Plateau
+* Quando utilizar Blockchain?
   
 <hr>
 
-### 4. Blockchain: Grand Reef
+### [3. Blockchain: Grassy Plateau]()
+  
+<hr>
+
+### [4. Blockchain: Grand Reef]()
 
 <hr>
 
-###  5. Blockchain: Lost River
+###  [5. Blockchain: Lost River]()
 
 ## 🌐 Esquema dos Diretórios
 
 ```
-📁LP-crypto-submersion
-📄README.md
+📁 LP-crypto-submersion
+📄 README.md
 │
-├─ 1. Basics for Teamwork and Agile Development
-│  ├─📁Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
-│  │ 📄README.md
-│  │ └─ ... (arquivos do módulo)
-│  │
-│  ├─📁Aprenda Git e GitHub em 3 dias + Projetos reais
-│  │ 📄README.md
-│  │ └─ ... (arquivos do módulo)
-│  │
-│  └─📁...
+├─📁 1. Basics for Teamwork and Agile Development
+│ ├─🔗 Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
+│ │ 📄 README.md
+│ │ └─ ... (arquivos do curso)
+│ │
+│ ├─🔗 Aprenda Git e GitHub em 3 dias + Projetos reais
+│ │ 📄 README.md
+│ │ └─ ... (arquivos do curso)
+│ │
+│ └─🔗 ...
 │
-├─ 2. Blockchain: Safe Shallows
-│  ├─📁Blockchain explicada em 5 níveis de dificuldade
-│  │ 📄README.md
-│  │ └─ ... (arquivos do módulo)
-│  │
-│  ├─📁Bitcoin e Blockchain - Conceitos Fundamentais
-│  │ 📄README.md
-│  │ └─ ... (arquivos do módulo)
-│  │
-│  └─📁...
+├─📁 2. Blockchain: Safe Shallows
+│ ├─🔗 Blockchain explicada em 5 níveis de dificuldade
+│ │ 📄 README.md
+│ │ └─ ... (arquivos do curso)
+│ │
+│ ├─🔗 Bitcoin e Blockchain - Conceitos Fundamentais
+│ │ 📄 README.md
+│ │ └─ ... (arquivos do curso)
+│ │
+│ └─🔗 ...
 │
-└─ ... (demais módulos)
+└─📁 ... (demais módulos)
 ```
 
 ## Licença
