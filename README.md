@@ -11,7 +11,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 
 <hr>
 
-### [2. Blockchain: Safe Shallows]()
+### [2. Blockchain: Safe Shallows](https://github.com/devitruvius/CS-safe-shallows)
   
 <hr>
 
