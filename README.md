@@ -58,7 +58,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 │ │ 📄 README.md
 │ │ └─ ... (arquivos do curso)
 │ │
-│ └─🔗 ...
+│ └─🔗 ... (demais cursos)
 │
 ├─📁 2. Blockchain: Safe Shallows
 │ ├─🔗 Blockchain explicada em 5 níveis de dificuldade
@@ -69,7 +69,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 │ │ 📄 README.md
 │ │ └─ ... (arquivos do curso)
 │ │
-│ └─🔗 ...
+│ └─🔗 ... (demais cursos)
 │
 └─📁 ... (demais módulos)
 ```
