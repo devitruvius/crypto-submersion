@@ -1,4 +1,4 @@
-# Learning Path: Crypto Submersion
+# Crypto Submersion
 
 ## Objetivo
 
