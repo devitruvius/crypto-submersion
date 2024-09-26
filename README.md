@@ -25,6 +25,8 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 
 ###  [5. Blockchain: Lost River]()
 
+<hr>
+
 ## 🌐 Mapa dos Diretórios
 
 ```
