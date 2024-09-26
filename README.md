@@ -5,7 +5,7 @@
 Servir como um portfólio centralizado e organizado para documentar atividades, aprendizados e desenvolvimentos profissionais durante o estágio em <strong>AWS Blockchain</strong> e <strong>Real Digital</strong> pelo Compass UOL. O repositório se destina ao registro e compartilhamento das experiências adquiridas ao longo do estágio, incluindo pesquisas, projetos e insights sobre crypto e suas aplicações.
 
 ## Níveis
-Cada repositório contém um README.md apresentando uma visão geral dos cursos, incluindo objetivos, ementário e materiais complementares podendo conter links externos e anotações.
+Cada nível apresenta uma coleção de anotações e recursos organizados por tema e conceito. Esses conteúdos incluem resumos dos cursos, identificação de abordagens e metodologias, bem como links diretos para materiais complementares no Notion. Ao longo dos níveis, você encontrará insights práticos e teóricos que facilitam a compreensão dos tópicos abordados.
  
 ### 1. Basics for Teamwork and Agile Development
 
