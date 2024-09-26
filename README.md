@@ -20,10 +20,10 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 ## 🌐 Mapa dos Diretórios
 
 ```
-📁 LP-crypto-submersion
+📁 crypto-submersion
 📄 README.md
 │
-├─📁 1. Basics for Teamwork and Agile Development
+├─📁 Basics for Teamwork and Agile Development
 │ 📄 README.md
 │ ├─🔗 Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
 │ │
@@ -31,7 +31,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 │ │
 │ └─🔗 ... (demais cursos)
 │
-├─📁 2. Blockchain: Safe Shallows
+├─📁 Blockchain: Safe Shallows
 │ 📄 README.md
 │ ├─🔗 Blockchain explicada em 5 níveis de dificuldade
 │ │
