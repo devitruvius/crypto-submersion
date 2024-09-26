@@ -9,7 +9,7 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
  
 ### 1. Basics for Teamwork and Agile Development
 
-- #### [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática](https://www.notion.so/Como-fazer-Metodologias-geis-Scrum-e-Kanban-na-Pr-tica-b74bcb23a93a466989b62a31d35be713?pvs=4)
+- #### [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática](https://sky-clock-04e.notion.site/Como-fazer-Metodologias-geis-Scrum-e-Kanban-na-Pr-tica-b74bcb23a93a466989b62a31d35be713?pvs=4)
 - #### [Aprenda Git e GitHub em 3 dias + Projetos reais]()
 - #### [Conventional Commits]()
 - #### [Tudo que você precisa saber sobre Markdown]()
