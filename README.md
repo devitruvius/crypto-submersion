@@ -7,15 +7,27 @@ Servir como um portfólio centralizado e organizado para documentar atividades, 
 ## Níveis
 Cada repositório contém um README.md apresentando uma visão geral dos cursos, incluindo objetivos, ementário e materiais complementares podendo conter links externos e anotações.
  
-### [1. Basics for Teamwork and Agile Development](https://github.com/devitruvius/CS-teamwork-agile)
+### 1. Basics for Teamwork and Agile Development
 
-### [2. Blockchain: Safe Shallows](https://github.com/devitruvius/CS-safe-shallows)
+- #### [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática]()
+- #### [Aprenda Git e GitHub em 3 dias + Projetos reais]()
+- #### [Conventional Commits]()
+- #### [Tudo que você precisa saber sobre Markdown]()
+- #### [Fundamentos da Segurança da Informação]()
 
-### [3. Blockchain: Grassy Plateau]()
+### 2. Blockchain: Safe Shallows
 
-### [4. Blockchain: Grand Reef]()
+- #### [Blockchain explicada em 5 níveis de dificuldade]()
+- #### [Bitcoin e Blockchain - Conceitos Fundamentais]()
+- #### [Blockchain Demo]()
+- #### [Blockchain na prática]()
+- #### [Quando utilizar Blockchain?]()
 
-###  [5. Blockchain: Lost River]()
+### 3. Blockchain: Grassy Plateau
+
+### 4. Blockchain: Grand Reef
+
+### 5. Blockchain: Lost River
 
 ## 🌐 Mapa dos Diretórios
 
