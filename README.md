@@ -36,7 +36,6 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 📄 README.md
 │
 ├─📁 Basics for Teamwork and Agile Development
-│ 📄 README.md
 │ ├─🔗 Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
 │ │
 │ ├─🔗 Aprenda Git e GitHub em 3 dias + Projetos reais
@@ -44,7 +43,6 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
 │ └─🔗 ... (demais cursos)
 │
 ├─📁 Blockchain: Safe Shallows
-│ 📄 README.md
 │ ├─🔗 Blockchain explicada em 5 níveis de dificuldade
 │ │
 │ ├─🔗 Bitcoin e Blockchain - Conceitos Fundamentais
