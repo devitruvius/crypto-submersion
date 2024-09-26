@@ -9,23 +9,13 @@ Cada repositório contém um README.md apresentando uma visão geral dos cursos,
  
 ### [1. Basics for Teamwork and Agile Development](https://github.com/devitruvius/CS-teamwork-agile)
 
-<hr>
-
 ### [2. Blockchain: Safe Shallows](https://github.com/devitruvius/CS-safe-shallows)
-  
-<hr>
 
 ### [3. Blockchain: Grassy Plateau]()
-  
-<hr>
 
 ### [4. Blockchain: Grand Reef]()
 
-<hr>
-
 ###  [5. Blockchain: Lost River]()
-
-<hr>
 
 ## 🌐 Mapa dos Diretórios
 
