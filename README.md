@@ -13,7 +13,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados por te
 - #### [Git e GitHub](https://sky-clock-04e.notion.site/Git-e-GitHub-a7fc1e67d23d4bed88fd8c8b52208f5c?pvs=4)
 - #### [Conventional Commits](https://sky-clock-04e.notion.site/Conventional-Commits-10d0cf47793880aab7e5c2c2c79f0307?pvs=4)
 - #### [Tudo sobre Markdown](https://sky-clock-04e.notion.site/Markdown-10d0cf47793880189ae0e42429a08aa9?pvs=4)
-- #### [Fundamentos da Segurança da Informação]()
+- #### [Fundamentos da Segurança da Informação](https://sky-clock-04e.notion.site/Fundamentos-da-Seguran-a-da-Informa-o-10d0cf47793880218968ec7a09325c4d?pvs=4)
 
 ### 2. Blockchain: Safe Shallows
 
