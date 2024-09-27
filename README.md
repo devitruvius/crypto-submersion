@@ -11,7 +11,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados por te
 
 - #### [Metodologias Ágeis: Scrum e Kanban](https://sky-clock-04e.notion.site/Como-fazer-Metodologias-geis-Scrum-e-Kanban-na-Pr-tica-b74bcb23a93a466989b62a31d35be713?pvs=4)
 - #### [Git e GitHub](https://sky-clock-04e.notion.site/Git-e-GitHub-a7fc1e67d23d4bed88fd8c8b52208f5c?pvs=4)
-- #### [Conventional Commits]()
+- #### [Conventional Commits](https://sky-clock-04e.notion.site/Conventional-Commits-10d0cf47793880aab7e5c2c2c79f0307?pvs=4)
 - #### [Tudo que você precisa saber sobre Markdown]()
 - #### [Fundamentos da Segurança da Informação]()
 
