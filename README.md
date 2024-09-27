@@ -17,11 +17,11 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
 
 ### 2. Blockchain: Safe Shallows
 
-- #### [Blockchain explicada em 5 níveis de dificuldade]()
-- #### [Bitcoin e Blockchain - Conceitos Fundamentais]()
-- #### [Blockchain Demo]()
-- #### [Blockchain na prática]()
-- #### [Quando utilizar Blockchain?]()
+- #### Blockchain explicada em 5 níveis de dificuldade
+- #### Bitcoin e Blockchain - Conceitos Fundamentais
+- #### Blockchain Demo
+- #### Blockchain na prática
+- #### Quando utilizar Blockchain?
 
 ### 3. Blockchain: Grassy Plateau
 
