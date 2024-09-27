@@ -9,8 +9,8 @@ Cada nível apresenta uma coleção de anotações e recursos organizados por te
  
 ### 1. Basics for Teamwork and Agile Development
 
-- #### [Como fazer Metodologias Ágeis – Scrum e Kanban na Prática](https://sky-clock-04e.notion.site/Como-fazer-Metodologias-geis-Scrum-e-Kanban-na-Pr-tica-b74bcb23a93a466989b62a31d35be713?pvs=4)
-- #### [Aprenda Git e GitHub em 3 dias + Projetos reais]()
+- #### [Metodologias Ágeis: Scrum e Kanban](https://sky-clock-04e.notion.site/Como-fazer-Metodologias-geis-Scrum-e-Kanban-na-Pr-tica-b74bcb23a93a466989b62a31d35be713?pvs=4)
+- #### [Git e GitHub](https://sky-clock-04e.notion.site/Git-e-GitHub-a7fc1e67d23d4bed88fd8c8b52208f5c?pvs=4)
 - #### [Conventional Commits]()
 - #### [Tudo que você precisa saber sobre Markdown]()
 - #### [Fundamentos da Segurança da Informação]()
