@@ -18,7 +18,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
 ### 2. Blockchain: Safe Shallows
 
 - #### [Blockchain explicada em 5 níveis de dificuldade](https://sky-clock-04e.notion.site/Blockchain-N-veis-de-Dificuldade-13f532f70be84f6a85952a6a2b38fe37?pvs=4)
-- #### Bitcoin e Blockchain - Conceitos Fundamentais
+- #### [Bitcoin e Blockchain - Conceitos Fundamentais](https://sky-clock-04e.notion.site/Bitcoin-e-Blockchain-Conceitos-Fundamentais-10f0cf47793880598e5ed2580ed3b269?pvs=4)
 - #### Blockchain Demo
 - #### Blockchain na prática
 - #### Quando utilizar Blockchain?
