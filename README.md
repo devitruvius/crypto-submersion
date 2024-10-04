@@ -21,7 +21,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
 - #### [Bitcoin e Blockchain - Conceitos Fundamentais](https://sky-clock-04e.notion.site/Bitcoin-e-Blockchain-Conceitos-Fundamentais-10f0cf47793880598e5ed2580ed3b269?pvs=4)
 - #### [Blockchain Demo](https://sky-clock-04e.notion.site/Blockchain-Demo-10f0cf477938806193a5ccbe6ea2d2b9?pvs=4)
 - #### [Blockchain na prática](https://sky-clock-04e.notion.site/Blockchain-na-Pr-tica-10f0cf47793880f595efea87f548b6d9?pvs=4)
-- #### Quando utilizar Blockchain?
+- #### [Quando utilizar Blockchain?](https://sky-clock-04e.notion.site/Quando-utilizar-Blockchain-10f0cf4779388098a3c6e957fc690e92?pvs=4)
 
 ### 3. Blockchain: Grassy Plateau
 
