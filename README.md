@@ -27,6 +27,12 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
 
 ### 3. Blockchain: Grassy Plateau
 
+- #### Qual a diferença entre Blockchain pública e Blockchain privada?
+- #### AWS re:Invent 2022 - Quando usar blockchain: casos de uso privados e públicos
+- #### Permissioned vs. Permissionless Blockchains
+- #### Decentralized vs. Centralized: A Detailed Comparison
+- #### Private Blockchain vs Bank: Differences With The Banking System And The Revolutionary Potential
+
 ### 4. Blockchain: Grand Reef
 
 ### 5. Blockchain: Lost River
