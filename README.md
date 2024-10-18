@@ -23,7 +23,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
 - #### [Blockchain na prática](https://sky-clock-04e.notion.site/Blockchain-na-Pr-tica-10f0cf47793880f595efea87f548b6d9?pvs=4)
 - #### [Quando utilizar Blockchain?](https://sky-clock-04e.notion.site/Quando-utilizar-Blockchain-10f0cf4779388098a3c6e957fc690e92?pvs=4)
 - #### [Blockchain Explained in Plain English](https://sky-clock-04e.notion.site/Blockchain-Explained-in-Plain-English-1180cf4779388033a0ecccb0434640bb?pvs=4)
-- #### [Aurelia Demo: Blockchain em Águas Rasas](https://github.com/devitruvius/aurelia-demo)
+- #### [Desafio Prático I](https://github.com/devitruvius/aurelia-demo)
 
 ### 3. Blockchain: Grassy Plateau
 
