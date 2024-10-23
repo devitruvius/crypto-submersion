@@ -16,7 +16,7 @@ Este módulo visa fornecer as bases para a colaboração eficaz em equipe, apres
 
 O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia Blockchain, permitindo explorar suas aplicações em um ambiente controlado e seguro.
 
-### 3. [Blockchain: Grassy Plateau](https://https://github.com/devitruvius/crypto-submersion-plateau)
+### 3. [Blockchain: Grassy Plateau](https://github.com/devitruvius/crypto-submersion-plateau)
 
 Este módulo explora aspectos mais complexos da tecnologia Blockchain, aprofundando o conhecimento adquirido no módulo anterior. Diferenças entre tipos de blockchains, conceitos de criptografia e segurança, e os diversos algoritmos de consenso fazem parte deste nível.
 
