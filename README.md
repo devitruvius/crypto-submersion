@@ -16,21 +16,9 @@ Este módulo visa fornecer as bases para a colaboração eficaz em equipe, apres
 
 O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia Blockchain, permitindo explorar suas aplicações em um ambiente controlado e seguro.
 
-### 3. Blockchain: Grassy Plateau
+### 3. [Blockchain: Grassy Plateau](https://https://github.com/devitruvius/crypto-submersion-plateau)
 
-- Diferença entre Blockchain pública e privada
-- **AWS re:Invent 2022**: Quando usar blockchain - casos de uso privados e públicos
-- Blockchains permissionadas vs. permissionless
-- Comparação detalhada: descentralizado vs. centralizado
-- Blockchain privada vs. bancos: diferenças e o potencial revolucionário
-
-### 4. Blockchain: Grand Reef
-
-Conteúdo avançado que aprofunda as aplicações complexas da blockchain e seus casos de uso mais desafiadores.
-
-### 5. Blockchain: Lost River
-
-Exploração dos conceitos mais profundos da blockchain, incluindo a integração de tecnologias disruptivas em sistemas financeiros e corporativos.
+Este módulo explora aspectos mais complexos da tecnologia Blockchain, aprofundando o conhecimento adquirido no módulo anterior. Diferenças entre tipos de blockchains, conceitos de criptografia e segurança, e os diversos algoritmos de consenso fazem parte deste nível.
 
 ## 🌐 Mapa dos Diretórios
 
