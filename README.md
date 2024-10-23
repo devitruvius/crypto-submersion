@@ -9,15 +9,7 @@ Cada nível apresenta uma coleção de anotações e recursos organizados pelos 
  
 ### 1. [Basics for Teamwork and Agile Development](https://github.com/devitruvius/crypto-submersion-teamwork)
 
-### 2. Blockchain: Safe Shallows
-
-- #### [Blockchain explicada em 5 níveis de dificuldade](https://sky-clock-04e.notion.site/Blockchain-N-veis-de-Dificuldade-13f532f70be84f6a85952a6a2b38fe37?pvs=4)
-- #### [Bitcoin e Blockchain - Conceitos Fundamentais](https://sky-clock-04e.notion.site/Bitcoin-e-Blockchain-Conceitos-Fundamentais-10f0cf47793880598e5ed2580ed3b269?pvs=4)
-- #### [Blockchain Demo](https://sky-clock-04e.notion.site/Blockchain-Demo-10f0cf477938806193a5ccbe6ea2d2b9?pvs=4)
-- #### [Blockchain na prática](https://sky-clock-04e.notion.site/Blockchain-na-Pr-tica-10f0cf47793880f595efea87f548b6d9?pvs=4)
-- #### [Quando utilizar Blockchain?](https://sky-clock-04e.notion.site/Quando-utilizar-Blockchain-10f0cf4779388098a3c6e957fc690e92?pvs=4)
-- #### [Blockchain Explained in Plain English](https://sky-clock-04e.notion.site/Blockchain-Explained-in-Plain-English-1180cf4779388033a0ecccb0434640bb?pvs=4)
-- #### [Desafio Prático I](https://github.com/devitruvius/aurelia-demo)
+### 2. [Blockchain: Safe Shallows](https://github.com/devitruvius/crypto-submersion-shallows)
 
 ### 3. Blockchain: Grassy Plateau
 
