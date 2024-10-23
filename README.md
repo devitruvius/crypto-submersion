@@ -8,8 +8,10 @@ Servir como um portfólio centralizado e organizado para documentar atividades, 
 Cada nível apresenta uma coleção de anotações e recursos organizados pelos respectivos cursos. Esses conteúdos incluem resumos, identificação de abordagens e metodologias, bem como links externos para materiais complementares.
  
 ### 1. [Basics for Teamwork and Agile Development](https://github.com/devitruvius/crypto-submersion-teamwork)
+O objetivo deste módulo é fornecer as bases para uma colaboração eficaz em equipe, apresentando ferramentas e práticas essenciais para o desenvolvimento de software, com foco em metodologias ágeis e versionamento de código.
 
 ### 2. [Blockchain: Safe Shallows](https://github.com/devitruvius/crypto-submersion-shallows)
+O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia Blockchain e explorar suas aplicações em um ambiente seguro e controlado.
 
 ### 3. Blockchain: Grassy Plateau
 
