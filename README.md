@@ -18,7 +18,7 @@ O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia B
 
 ### Desafio Prático: Blockchain Simples
 
-O desafio prático deste módulo envolve o desenvolvimento de uma blockchain simples, permitindo a aplicação dos conceitos aprendidos. O projeto demonstra a criação de blocos, cálculo de hashes, validação da cadeia e um mecanismo básico de Proof-of-Work.
+O desafio prático deste módulo envolve o desenvolvimento de uma blockchain simples, demonstrando a criação de blocos, cálculo de hashes, validação de cadeia e um mecanismo básico de Proof-of-Work.
 
 - **[Repositório do Projeto](https://github.com/devitruvius/aurelia-demo)**
 
